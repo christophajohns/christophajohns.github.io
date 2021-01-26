@@ -4,6 +4,7 @@ article {
     margin-right: auto;
     font-size: 12pt;
     line-height: 16pt;
+    text-align: justify;
 }
 
 header, footer {
