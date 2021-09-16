@@ -16,4 +16,4 @@ I use qualitative, quantitative, and computational methods to research and desig
 
 ## Background and History
 
-I received a B.Sc. from the [Business Information Systems program](https://www.uni-goettingen.de/en/640687.html) at University of Göttingen and a B.A. from the [Business Administration program](https://www.welfenakademie.de/studienaufbau/) at WelfenAkademie Braunschweig. Before pursuing my studies in Business Information Systems and later Human-Computer Interaction and Design, I was a dual study program student at [Volkswagen Financial Services](https://www.vwfs.com/en.html) in Braunschweig, Germany.
+I received a B.S. from the [Business Information Systems program](https://www.uni-goettingen.de/en/640687.html) at University of Göttingen and a B.A. from the [Business Administration program](https://www.welfenakademie.de/studienaufbau/) at WelfenAkademie Braunschweig. Before pursuing my studies in Business Information Systems and later Human-Computer Interaction and Design, I was a dual study program student at [Volkswagen Financial Services](https://www.vwfs.com/en.html) in Braunschweig, Germany.
