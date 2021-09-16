@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name: "Christoph A. Johns"
-  avatar: "bio-photo.jpg"
-  bio: "MSc Human-Computer Interaction and Design @ KTH/Aalto"
+  avatar: "profile.png"
+  bio: "MSc Human-Computer Interaction and Design @ KTH/Aalto <br> <br> Research Intern at Aalto University, <a style='color: black;' href='https://userinterfaces.aalto.fi'>User Interfaces Research Group</a>"
   location: "Espoo, Finland"
   employer:
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
+  linkedin: "christophjohns"
   orcid: # "http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
@@ -110,7 +110,7 @@ author:
   twitter: # "replacethistwitterhandle"
   vine:
   weibo:
-  xing:
+  xing: "Christoph_Johns"
   youtube:
   wikipedia:
 
