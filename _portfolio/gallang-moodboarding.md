@@ -15,11 +15,11 @@ collection: portfolio
   </figcaption>
 </figure>
 
-This project is part of the KTH Royal Institute of Technology course "DH2642: Interaction Programming and the Dynamic Web".
+## Problem
 
-It was created by Christoph A. Johns, Yuqi Liu, Annetta Sillard, and Xiaoying Sun.
-
-The application is publicly available on Heroku at <https://gallang.herokuapp.com>.
+Designers often create mood-boards, for example using Pinterest or Miro, to explore the design space.
+The images provided by these resources are often inconsistent in quality and the recommendation engines hinder, to some degree, truly imaginative and free inspiration.
+A digital mood-board bringing together several different sources of high-quality media, for example, stock photography, art galleries, fonts, etc. could lead to more effective exploration of the design space.
 
 <figure>
   <img src="/images/gallang/research.png" alt="Competitor analysis and desk research" />
@@ -28,13 +28,9 @@ The application is publicly available on Heroku at <https://gallang.herokuapp.co
   </figcaption>
 </figure>
 
-## Quick Overview
+## Research
 
-### Motivation
-
-Designers often create mood-boards, for example using Pinterest or Miro, to explore the design space.
-The images provided by these resources are often inconsistent in quality and the recommendation engines hinder, to some degree, truly imaginative and free inspiration.
-A digital mood-board bringing together several different sources of high-quality media, for example, stock photography, art galleries, fonts, etc. could lead to more effective exploration of the design space.
+In order to understand the target user and their needs, the project team conducted desk research, competitive analysis of mood-boarding tools as well as unstructured interviews with graphic and user interface designers. The results were collected and discussed to focus on a specific user problem to address as well as to inform the general information architecture of the resulting application.
 
 <figure>
   <img src="/images/gallang/ideation.png" alt="Sketches and wireframes" />
@@ -43,29 +39,15 @@ A digital mood-board bringing together several different sources of high-quality
   </figcaption>
 </figure>
 
-### Results
+## Ideation and Development
 
-In its current iteration, Gallang offers users the option to browse through and search for images from a reputable source, the [Cooper Hewitt (Smithsonian Art Museum)](https://collection.cooperhewitt.org/api/).
-The user can like and save those images into collections (called "Galleries").
-Based on the individual usage behavior (i.e. the user's likes), Gallang computes and displays recommendations for similar artists, institutions, media or types that the user might also be interested in.
-When users want to continue their work in other design tools like Figma, they can download the images to their local machine for further use.
-This way, Gallang offers users a way to be inspired and to collect high-quality mood boarding assets for their design projects.
+Based on the results of the user and design research, individual and collaborative ideation and development techniques were used to create concepts, sketches, wireframes, mockups and finally an interactive Figma prototype. This prototype was tested with target users to evaluate the overall user experience as well as to identify potential usability issues before beginning the translation of the graphical prototype into code.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FD5OcjRitzgfjHPQHSw7DPD%2FIProg-Gallang%3Fpage-id%3D0%253A1%26node-id%3D186%253A19256%26viewport%3D320%252C48%252C0.1%26scaling%3Dscale-down%26starting-point-node-id%3D186%253A19256" allowfullscreen></iframe>
 
-## Features
+## Delivery and Testing
 
-We have implemented the following features:
-
-- User authentication using Firebase (sign up, login, forgot password, edit user profile, delete user)
-- Persisted application state using Firebase
-- Home/browse page to view "featured" collections (i.e. images of objects from certain periods using the [Cooper Hewitt API](https://collection.cooperhewitt.org/api/)) and recommended images (only displayed if a user has liked at least three images)
-- Search functionality using the [Cooper Hewitt API](https://collection.cooperhewitt.org/api/)
-- Options to create, view and delete galleries (collections of images)
-- Basic recommendation engine to return suggested images with similar medium, type, or participants from the [Cooper Hewitt API](https://collection.cooperhewitt.org/api/) based on a user's liked images
-- Liked content page to view and download your liked images
-- Profile page to view and edits one's user data and profile
-- Drag-and-Drop images to add them to a gallery
+The resulting web application was developed using JavaScript, more specifically implementing a Model-View-Presenter architecture using the React.js framework. The development was executed using remote pair programming and distributed agile methods. The final result is publicly available on Heroku at <https://gallang.herokuapp.com>.
 
 <figure>
   <img src="/images/gallang/mockups.png" alt="Gallery mockup" />
