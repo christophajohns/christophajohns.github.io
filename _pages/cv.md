@@ -18,12 +18,19 @@ redirect_from:
 
 ## Work experience
 
+### Research Intern Interactive Machine Learning
+
+- German Research Center for Artificial Intelligence (DFKI), Internship
+- Jan 2022 -- Present
+- Saarbrücken/Oldenburg, Germany
+- Master thesis about intelligent sketching and prototyping interfaces
+
 ### Research Intern Computational Interaction
 
 - Aalto University, Internship
-- Aug 2021 -- Present
+- Aug 2021 -- Nov 2021
 - Espoo, Finland
-- Implementation of best practices and recommended workflows for cognitive modelling using Python and a custom library called 'interaction-agents'
+- Implementation of best practices and recommended workflows for cognitive modelling using Python and a custom library called 'CoopIHC'
 
 ### Programmer
 

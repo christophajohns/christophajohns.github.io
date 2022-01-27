@@ -15,4 +15,4 @@ Contact information is below, including email and various web services. This is 
 - GitHub: [christophajohns](https://github.com/christophajohns)
 - LinkedIn: [christophjohns](https://www.linkedin.com/in/christophjohns/)
 - XING: [Christoph_Johns](https://www.xing.com/profile/Christoph_Johns/)
-- Aalto University: [User Interfaces Research Group, Department of Communications and Networking](https://userinterfaces.aalto.fi)
+- DFKI: [Interactive Machine Learning Lab](https://iml.dfki.de)

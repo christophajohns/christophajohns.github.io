@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! 👋 I'm Christoph, a double degree master's student in Human-Computer Interaction and Design at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden, and [Aalto University](https://www.aalto.fi/en) in Helsinki/Espoo, Finland. Currently, I am completing an internship at the [User Interfaces Research Group](https://userinterfaces.aalto.fi) at Aalto University. I have a background in business administration and business information systems, but have dedicated my time and resources to studies and work in the domain of software design and Human-Computer Interaction in general. It is my goal and passion to contribute to innovation and learning in designing digital services and I have wasted countless hours on this topic.
+Hi, there! 👋 I'm Christoph, a double degree master's student in Human-Computer Interaction and Design at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden, and [Aalto University](https://www.aalto.fi/en) in Helsinki/Espoo, Finland. Currently, I am completing my master thesis at the [Interactive Machine Learning Lab](https://iml.dfki.de) of the German Research Center for Artificial Intelligence (DFKI). Before, I was an intern in the [User Interfaces Research Group](https://userinterfaces.aalto.fi) at Aalto University. I have a background in business administration and business information systems, but have dedicated my time and resources to studies and work in the domain of software design and Human-Computer Interaction in general. It is my goal and passion to contribute to innovation and learning in designing digital services and I am prepared to invest many more hours into this topic.
 
 ## Work and Research
 
