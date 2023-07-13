@@ -11,7 +11,7 @@ redirect_from:
 
 Contact information is below, including email and various web services. This is to make it easy for people to find me when they search for things like “christoph johns email” and get wrong pages on my site. Here are some other places on the Internet where I can be found.
 
-- E-mail: christoph.johns[at]cs.au.dk
+- E-mail: cajohns[at]cs.au.dk
 - GitHub: [christophajohns](https://github.com/christophajohns)
 - LinkedIn: [christophjohns](https://www.linkedin.com/in/christophjohns/)
 - XING: [Christoph_Johns](https://www.xing.com/profile/Christoph_Johns/)
