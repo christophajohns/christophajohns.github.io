@@ -22,7 +22,7 @@ redirect_from:
 ### Research Intern Interactive Machine Learning
 
 - German Research Center for Artificial Intelligence (DFKI), Internship
-- Jan 2022 -- Present
+- Jan 2022 -- Jul 2022
 - Saarbrücken/Oldenburg, Germany
 - Master thesis about interactive link prediction in mobile GUIs
 
