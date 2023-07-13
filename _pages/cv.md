@@ -11,8 +11,9 @@ redirect_from:
 
 ## Education
 
-- M.S. (Double Degree) in Human-Computer Interaction and Design, Aalto University, 2022 (expected)
-- M.S. (Double Degree) in Human-Computer Interaction and Design, KTH Royal Institute of Technology, 2022 (expected)
+- Ph.D. in Human-Computer Interaction, Aarhus University, 2025 (expected)
+- M.S. (Double Degree) in Human-Computer Interaction and Design, Aalto University, 2022
+- M.S. (Double Degree) in Human-Computer Interaction and Design, KTH Royal Institute of Technology, 2022
 - B.S. in Business Information Systems, University of Göttingen, 2020
 - B.A. in Business Administration, WelfenAkademie Braunschweig, 2017
 
@@ -23,7 +24,7 @@ redirect_from:
 - German Research Center for Artificial Intelligence (DFKI), Internship
 - Jan 2022 -- Present
 - Saarbrücken/Oldenburg, Germany
-- Master thesis about intelligent sketching and prototyping interfaces
+- Master thesis about interactive link prediction in mobile GUIs
 
 ### Research Intern Computational Interaction
 
@@ -92,19 +93,19 @@ redirect_from:
 - HTML
 - CSS
 
-<!--
-
 ## Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<!--
 ## Talks
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
 
 ## Teaching
 
@@ -112,6 +113,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<!--
 ## Service and leadership
 
 - Currently signed in to 43 different slack teams -->

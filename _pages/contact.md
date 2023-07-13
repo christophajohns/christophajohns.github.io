@@ -15,4 +15,4 @@ Contact information is below, including email and various web services. This is 
 - GitHub: [christophajohns](https://github.com/christophajohns)
 - LinkedIn: [christophjohns](https://www.linkedin.com/in/christophjohns/)
 - XING: [Christoph_Johns](https://www.xing.com/profile/Christoph_Johns/)
-- DFKI: [Interactive Machine Learning Lab](https://iml.dfki.de)
+- Aarhus University: [Department of Computer Science](https://pure.au.dk/portal/en/cajohns@cs.au.dk)

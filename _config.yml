@@ -80,13 +80,13 @@ analytics:
 author:
   name: "Christoph A. Johns"
   avatar: "profile.png"
-  bio: "MSc Human-Computer Interaction and Design @ KTH/Aalto <br> <br> Research Intern at DFKI, <a style='color: black;' href='https://iml.dfki.de'>Interactive Machine Learning Lab</a>"
-  location: "Hamburg, Germany"
+  bio: "PhD in Human-Computer Interaction @ Aarhus University"
+  location: "Aarhus, Denmark"
   employer:
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: # "http://yourfullgooglescholarurl.com"
+  googlescholar: https://scholar.google.com/citations?user=OomHNRcAAAAJ&hl=en&oi=ao
   email:
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate: https://www.researchgate.net/profile/Christoph-Johns
   uri:
   bitbucket:
   codepen:
@@ -101,7 +101,7 @@ author:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "christophjohns"
-  orcid: # "http://orcid.org/yourorcidurl"
+  orcid: https://orcid.org/0000-0002-4175-340X
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
