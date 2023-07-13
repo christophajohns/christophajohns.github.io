@@ -19,6 +19,13 @@ redirect_from:
 
 ## Work experience
 
+### PhD Fellow Department of Computer Science
+
+- Aarhus University, PhD Fellow
+- Aug 2022 -- Present
+- Aarhus, Denmark
+- PhD project about computational methods for user interface optimization and adaptation
+
 ### Research Intern Interactive Machine Learning
 
 - German Research Center for Artificial Intelligence (DFKI), Internship
