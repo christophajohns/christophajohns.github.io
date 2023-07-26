@@ -2,7 +2,7 @@
 title: "Mixed Reality UI Adaptations with Inaccurate and Incomplete Objectives"
 collection: publications
 permalink: /research/2023-04-23-mixed-reality-ui-adaptations-with-inaccurate-and-incomplete-objectives
-excerpt: "We suggest using online multi-objective optimization methods for online UI adaptations which generate a set of Pareto optimal adaptation proposals, giving users more control and adding flexibility to the computational decision-making."
+excerpt: "We propose a new approach to adapt 3D UI layouts using multi-objective optimization and interactive preference elicitation to provide flexible and effective adaptations in light of incomplete information about end-user preferences, emphasizing the importance of user control."
 date: 2023-04-23
 venue: "CHI ’23 Workshop on Future of Computational Approaches for Understanding and Adapting User Interfaces"
 paperurl: "https://drive.google.com/file/d/1DG96ItpxiFSj9mLREaABWDa3M3cdMusP/view"
