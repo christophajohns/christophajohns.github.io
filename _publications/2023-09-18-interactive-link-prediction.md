@@ -1,0 +1,14 @@
+---
+title: "Interactive Link Prediction as a Downstream Task for Foundational GUI Understanding Models"
+collection: publications
+permalink: /research/2023-09-18-interactive-link-prediction
+excerpt: "we present interactive link prediction as a downstream task for GUI understanding models and provide baselines as well as testing tools to effectively and efficiently evaluate predictive GUI understanding models."
+date: 2023-09-18
+venue: "KI 2023 – 46th German Conference on Artificial Intelligence"
+paperurl: "https://doi.org/10.1007/978-3-031-42608-7_7"
+citation: "Johns, C.A., Barz, M., Sonntag, D. (2023). Interactive Link Prediction as a Downstream Task for Foundational GUI Understanding Models. In: Seipel, D., Steen, A. (eds) KI 2023: Advances in Artificial Intelligence. KI 2023. Lecture Notes in Computer Science(), vol 14236. Springer, Cham. https://doi.org/10.1007/978-3-031-42608-7_7"
+---
+
+AI models that can recognize and understand the semantics of graphical user interfaces (GUIs) enable a variety of use cases ranging from accessibility to automation. Recent efforts in this domain have pursued the development of a set of foundation models: generic GUI understanding models that can be used off-the-shelf to solve a variety of GUI-related tasks, including ones that they were not trained on. In order to develop such foundation models, meaningful downstream tasks and baselines for GUI-related use cases will be required. In this paper, we present <i>interactive link prediction</i> as a downstream task for GUI understanding models and provide baselines as well as testing tools to effectively and efficiently evaluate predictive GUI understanding models. In interactive link prediction, the task is to predict whether tapping on an element on one screen of a mobile application (source element) navigates the user to a second screen (target screen). If this task is solved sufficiently, it can demonstrate an understanding of the relationship between elements and components across screens and enable various applications in GUI design automation and assistance. To encourage and support research on interactive link prediction, this paper contributes (1) a pre-processed large-scale dataset of links in mobile applications (18,830 links from 5,362 applications) derived from the popular RICO dataset, (2) performance baselines from five heuristic-based and two learning-based GUI understanding models, (3) a small-scale dataset of links in mobile GUI prototypes including ratings from an online study with 36 end-users for out-of-sample testing, and (4) a Figma plugin that can leverage link prediction models to automate and assist mobile GUI prototyping.
+
+[Download paper here](https://doi.org/10.1007/978-3-031-42608-7_7)
