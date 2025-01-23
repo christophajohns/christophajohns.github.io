@@ -26,6 +26,13 @@ redirect_from:
 - Aarhus, Denmark
 - PhD project about computational methods for user interface optimization and adaptation
 
+### Research Intern Intelligent Interactive Systems
+
+- University of Cambridge, Internship
+- Jun 2024 -- Oct 2024
+- Cambridge, UK
+- Research project about prior injection techniques to incorporate design expertise into human-in-the-loop Bayesian optimization
+
 ### Research Intern Interactive Machine Learning
 
 - German Research Center for Artificial Intelligence (DFKI), Internship
@@ -40,10 +47,10 @@ redirect_from:
 - Espoo, Finland
 - Implementation of best practices and recommended workflows for cognitive modelling using Python and a custom library called 'CoopIHC'
 
-### Programmer
+### Research Programmer
 
 - Freelance
-- Apr 2020 -- Present
+- Apr 2020 -- Jan 2021
 - Support of research projects (e.g. University of Goettingen); data collection, preparation, and analysis using Python
 
 ### Working Student Product Management Shop Applications
